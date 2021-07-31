@@ -1,0 +1,6 @@
+8229350 conflict resolved
+0d294b9 yeni ilk kommit
+020cb6a ilk commit
+b6ddd0b son degisiklik
+dde7d2a ilk satiri ekledim
+ad09608 dosyanin title ini degistirdim
